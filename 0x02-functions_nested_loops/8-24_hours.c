@@ -3,6 +3,8 @@
 /**
  * main - check the code
  *
+ * jack_bauer - The function to be executed
+ *
  * Return: Always 0
  */
 void jack_bauer(void)
