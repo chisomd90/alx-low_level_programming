@@ -6,7 +6,7 @@
  */
 int _lenght(char *s)
 {
-	if (*s == '\o')
+	if (*s == '\0')
 		return (0);
 	return (1 + _lenght(s + 1));
 }
